@@ -1,11 +1,11 @@
-/* Name: Your Full Name */
-/* Student Number: Your Registration Number */
+//Name: SANYU DORCUS
+//Student Number: 25/U/BIE/01420
 
 #include <stdio.h>
 
 int main(void)
 {
-    /* Write your code here */
+    
 
     return 0;
 }
