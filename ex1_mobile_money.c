@@ -17,8 +17,8 @@ scanf("%f", &trans );
 transaction = amount * (trans/100.00);
 amount_deducted = (amount + transaction);
 
-printf("Transaction fee:2f\n", transaction);
-printf("Amount deducted:%2f", amount_deducted);
+printf("Transaction fee.%2f\n", transaction);
+printf("Amount deducted.%2f", amount_deducted);
 
     return 0;
 }
